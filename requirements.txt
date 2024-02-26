@@ -1,0 +1,5 @@
+pyscard==1.9.9
+SQLAlchemy==1.3.23
+ctypes; platform_system == "Windows"
+threading; platform_system == "Windows"
+time; platform_system == "Windows"
